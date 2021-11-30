@@ -1,0 +1,5 @@
+Original Idea is to build a Business Intelligence Tool which can connect to any DB and build a new schema using
+https://www.prisma.io/docs/concepts/components/introspection
+
+There are issues when running Prisma with multiple database intances, here are a few solutions for the problem
+https://github.com/prisma/prisma/issues/2443
